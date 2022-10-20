@@ -1,0 +1,1 @@
+{"bundles":[{"asset":"de111fe1979a0fa962d659f638042b8e47d0f547ef857c464bfd9d877d85dcb0.eszip","format":"eszip2"}],"routes":[{"function":"ipx","name":"next/image handler","pattern":"^/_next/image.*/?$"},{"function":"next_middleware","name":"middleware","pattern":"^(?:/(_next/data/[^/]{1,}))?/shows(?:/(.*))(.json)?[/#\\?]?$"}],"bundler_version":"2.7.0"}

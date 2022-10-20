@@ -1,0 +1,17 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Montreal",
+			"country": {
+				"code": "CA",
+				"name": "Canada"
+			},
+			"subdivision": {
+				"code": "QC",
+				"name": "Quebec"
+			}
+		},
+		"timestamp": 1666279259140
+	},
+	"siteId": "d925f14a-fa4a-4222-8084-58a05d03538c"
+}

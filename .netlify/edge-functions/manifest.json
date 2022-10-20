@@ -1,0 +1,1 @@
+{"functions":[{"function":"ipx","name":"next/image handler","path":"/_next/image*"},{"function":"next_middleware","pattern":"^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/shows(?:\\/(.*))(.json)?[\\/#\\?]?$","name":"middleware"}],"version":1}
